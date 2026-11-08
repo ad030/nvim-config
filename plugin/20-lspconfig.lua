@@ -92,5 +92,6 @@ vim.lsp.enable({
 	"ts_ls",
 	"pyright",
 	"jdtls",
+	"texlab",
 	"nil_ls",
 })
